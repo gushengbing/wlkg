@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wlkg-api-gateway/wlkg-api-gateway.iml" filepath="$PROJECT_DIR$/wlkg-api-gateway/wlkg-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-common/wlkg-auth-common.iml" filepath="$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-common/wlkg-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-service/wlkg-auth-service.iml" filepath="$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-service/wlkg-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-goos-page/wlkg-goos-page.iml" filepath="$PROJECT_DIR$/wlkg-goos-page/wlkg-goos-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-item/wlkg-item-interface/wlkg-item-interface.iml" filepath="$PROJECT_DIR$/wlkg-item/wlkg-item-interface/wlkg-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service/wlkg-item-service.iml" filepath="$PROJECT_DIR$/wlkg-item/wlkg-item-service/wlkg-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wlkg-manage-web/wlkg-manage-web.iml" filepath="$PROJECT_DIR$/../wlkg-manage-web/wlkg-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wlkg-portal/wlkg-portal.iml" filepath="$PROJECT_DIR$/../wlkg-portal/wlkg-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-registry/wlkg-registry.iml" filepath="$PROJECT_DIR$/wlkg-registry/wlkg-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-search/wlkg-search.iml" filepath="$PROJECT_DIR$/wlkg-search/wlkg-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-sms/wlkg-sms.iml" filepath="$PROJECT_DIR$/wlkg-sms/wlkg-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-upload/wlkg-upload.iml" filepath="$PROJECT_DIR$/wlkg-upload/wlkg-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/wlkg-user-interface.iml" filepath="$PROJECT_DIR$/wlkg-user/wlkg-user-interface/wlkg-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlkg-user/wlkg-user-serivce/wlkg-user-serivce.iml" filepath="$PROJECT_DIR$/wlkg-user/wlkg-user-serivce/wlkg-user-serivce.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-api-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-auth-center/wlkg-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-goos-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-goos-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item/wlkg-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item/wlkg-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-item/wlkg-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user/wlkg-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user/wlkg-user-serivce" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wlkg-user/wlkg-user-serivce/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
