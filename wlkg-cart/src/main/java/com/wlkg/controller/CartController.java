@@ -20,7 +20,7 @@ public class CartController {
      *
      * @return
      */
-    @PostMapping
+    @PostMapping("/cart/add")
     public ResponseEntity<Void> addCart(@RequestBody Cart cart) {
         this.cartService.addCart(cart);
         return ResponseEntity.ok().build();
@@ -30,7 +30,7 @@ public class CartController {
      *
      * @return
      */
-    @GetMapping
+    @GetMapping("/cart/qyr")
     public ResponseEntity<List<Cart>> queryCartList() {
         List<Cart> carts = this.cartService.queryCartList();
         if (carts == null) {
@@ -43,7 +43,7 @@ public class CartController {
      *
      * @return
      */
-    @PutMapping
+    @PutMapping("/cart/update")
     public ResponseEntity<Void> updateNum(@RequestParam("skuId") Long skuId,
                                           @RequestParam("num") Integer num) {
         this.cartService.updateNum(skuId, num);

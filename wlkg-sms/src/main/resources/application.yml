@@ -8,9 +8,9 @@ spring:
     username: wlkg
     password: 123456
     virtual-host: /wlkg
-wlkg:
-  sms:
-    accessKeyId: LTAI4FeA8nveZPnf4fkD7RgT9 # 你自己的accessKeyId
-    accessKeySecret: TUCk1QneBtsGmrAFaEhsoHU8VWwQsT9 # 你自己的AccessKeySecret
-    signName: 窝里快商场 # 签名名称
-    verifyCodeTemplate: SMS_177242911  # 模板名称
+#wlkg:
+#  sms:
+#    accessKeyId: LTAI4FeA8nveZPnf4fkD7RgT9 # 你自己的accessKeyId
+#    accessKeySecret: TUCk1QneBtsGmrAFaEhsoHU8VWwQsT9 # 你自己的AccessKeySecret
+#    signName: 窝里快商场 # 签名名称
+#    verifyCodeTemplate: SMS_177242911  # 模板名称
